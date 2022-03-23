@@ -6,7 +6,7 @@ date: 2022-03-21
 categories:
  - 經濟學習
 tags: [經濟循環圖, 市場]
-image: https://raw.githubusercontent.com/meiyulee/pic001/master/Slide3.GIF
+image: https://www.google.com/url?sa=i&url=http%3A%2F%2Feconcloud.blogspot.com%2F2015%2F11%2Fblog-post_26.html&psig=AOvVaw048REOjC3TCegtjAtK4rV1&ust=1648129505049000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCMiZ9_-u3PYCFQAAAAAdAAAAABAD
 layout: post
 ---
 
@@ -59,7 +59,7 @@ layout: post
 
 什麼是經濟學的邏輯架構？為什麼很多人在學習經濟學都被帶偏？其實，經濟學的邏輯架構在開宗明義的第一章就會被圖示出：經濟循環圖。
 
-![經濟循環圖](media/16447244743693.jpg)
+![經濟循環圖](https://www.google.com/url?sa=i&url=http%3A%2F%2Feconcloud.blogspot.com%2F2015%2F11%2Fblog-post_26.html&psig=AOvVaw048REOjC3TCegtjAtK4rV1&ust=1648129505049000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCMiZ9_-u3PYCFQAAAAAdAAAAABAD)
 
 在Samluson的經典經濟學教科書中，經濟循環圖支撐整個經濟學的架構。以下我將經濟循環圖拆解出三個邏輯支幹，分別為：人物、市場、經濟活動(金流)。
 
@@ -146,7 +146,7 @@ layout: post
 
 因經濟與政治息息相關，研究經濟學或應用經濟學分析時跳脫不開政治，而政治與國家有關，所以在定義經濟體系時須先了解你的立場與角度。這個觀點在經濟學的學習過程中多半沒有明確指出，而是要自己琢磨，導致學習經濟學的初學者在摸索和學習過程出現邏輯架構的不完整性。
 
-## 4. 結論
+# 4. 結論
 
 經濟學的主邏輯架構就在四種人和各種市場組成。人所追求的目標及自利行為，在市場上產生各種的經濟活動。而經濟學就在討論這些經濟活動的本質與可獲得之最佳結果。透過邏輯的推演建構出數學模型輔助證明，成為理論。
 
