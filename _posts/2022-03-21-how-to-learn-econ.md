@@ -1,12 +1,14 @@
 ---
 title: 為什麼搞不懂經濟學
+description: 
 author: 李玫郁
 date: 2022-03-21
-pagenum: 1
+categories:
+ - 經濟學習
+tags: [經濟循環圖, 市場]
+image: https://raw.githubusercontent.com/meiyulee/pic001/master/Slide3.GIF
 layout: post
 ---
-
-[TOC]
 
 # 1. 經濟學的主幹邏輯結構
 想搞懂經濟學就得先搞懂經濟學的主幹邏輯架構。什麼是經濟學的主幹呢？首先，經濟學就是討論「人」的經濟活動，有活動就有「地方」。所以主幹來自什麼人和什麼地方發生了經濟活動？
