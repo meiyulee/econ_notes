@@ -5,7 +5,7 @@ author: 李玫郁
 date: 2022-03-21
 categories:
  - 經濟觀點
-tags: [新冠病毒事件, 經濟評析]
+tags: [新冠病毒事件, 經濟評析, 通貨膨脹]
 image: https://raw.githubusercontent.com/meiyulee/pic001/master/Slide3.GIF
 layout: post
 ---
@@ -15,7 +15,7 @@ layout: post
 商品市場的物價和實質總產出是觀察經濟現象的重要指標，也是真實反映經濟現象的指標。
 所以總體經濟學最終會回到AD-AS模型的分析。你可以想像是普通的供需模型，加上一條垂直的長期總合供給線。
 
-![-w300](https://raw.githubusercontent.com/meiyulee/pic001/master/Slide1.GIF width=300)
+![2019](https://raw.githubusercontent.com/meiyulee/pic001/master/Slide1.GIF)
 
 ## 新冠病毒的影響發生在家計單位
 
