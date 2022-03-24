@@ -77,6 +77,7 @@ $$
 $$
 Z=\frac{\overline{X}-E(\overline{X})}{\sigma(\overline{X})}
 $$
+
 其中，$\sigma(\overline{X})$是$n$的函數。常見的的函數形式為$\sqrt{n}^{-1}$。
 
 ## 3.1. $n$個隨機樣本服從常態分配
