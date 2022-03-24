@@ -102,6 +102,14 @@ Var(\overline{X}) &= p(1-p) / n
 \end{split}
 $$
 
+「標準化的統計量($Z$)」為
+
+$$\begin{split}
+Z & = \frac{\overline{X}-E(\overline{X})}{\sigma(\overline{X})} \\
+&=\frac{\hat{p}-p}{\sqrt{p(1-p) / n}}
+\end{split}
+$$
+
 ### 3.2.1. 舉例比對
 
 讓我使用來自雪梨大學的一個母體比例區間估計計算器[^7]和使用來自機率分配模擬器的一個母體比例估計得到臨界值後計算的區間估計。
