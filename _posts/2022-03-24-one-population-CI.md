@@ -58,7 +58,7 @@ $$
 
 ![樣本數=200](https://raw.githubusercontent.com/meiyulee/pic001/master/stat/CI_calcu_001.JPG)
 
-這三張截圖可以看出無論樣本數多少，臨界值都是使用Z分配的1.96，不符合樣本數超過30的條件，此外，樣本比例為0.9應為偏態，若要適用中央極限定理，所需樣本數也要非常多，至少超過1500個樣本[^6]。
+這三張截圖可以看出無論樣本數多少，臨界值都是使用Z分配的1.96，甚至出現不符合中央極限定理要求樣本數超過30的條件，此外，樣本比例為0.9應為偏態，若要適用中央極限定理，所需樣本數也要非常多，至少超過1500個樣本[^6]。
 
 <img src="https://raw.githubusercontent.com/meiyulee/pic001/master/CLT_bernoulli/CLT_bernoulli_p09.PNG" alt="母體比例=0.9" width="60%">
 
@@ -84,8 +84,10 @@ $$
 
 平均數為$\mu$且標準差為$\sigma$的常態分配，$E(\overline{X})=\mu$ 且 $Var(\overline{X})=\sigma^{2} /n$。所以，「標準化的統計量($Z$)」為
 
-$$
-Z=\frac{\overline{X}-E(\overline{X})}{\sigma(\overline{X})}=\frac{\overline{X}-\mu}{\sigma/\sqrt{n}}。
+$$\begin{split}
+Z & = \frac{\overline{X}-E(\overline{X})}{\sigma(\overline{X})} \\
+&=\frac{\overline{X}-\mu}{\sigma/\sqrt{n}}
+\end{split}
 $$
 
 ## 3.2. $n$個隨機樣本服從伯努利分配
