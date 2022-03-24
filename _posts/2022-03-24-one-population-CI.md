@@ -32,9 +32,9 @@ $$
 
 # 2. 極限理論
 
-這些隨機變數或隨機樣本的數學組合會服從特定分配，我們稱為抽樣分配。不過，難就難在這些轉換隨機樣本後的抽樣分配太難找了，於是，統計學家發現原來可以增加樣本個數達到趨近常態分配的特性，稱為中央極限定理。
+這些隨機變數或隨機樣本的數學組合會服從特定分配，我們稱為抽樣分配。不過，難就難在這些轉換隨機樣本後的抽樣分配太難找了，於是，從數學家棣美弗開始，他們發現原來可以增加樣本個數達到趨近常態分配的特性，後稱為中央極限定理[^1]。
 
-你以為就只有中央極限定理嗎?當然不止。這類的極限理論(limit theorem)包含分配趨近(convergence in distribution)[^1]、機率趨近(convergence in probability)[^2]、幾乎確定趨近(almost surely convergence)[^3]，其中，
+你以為就只有中央極限定理嗎?當然不止。這類的極限理論(limit theorem)包含分配趨近(convergence in distribution)[^2]、機率趨近(convergence in probability)[^3]、幾乎確定趨近(almost surely convergence)[^4]，其中，
 
 - 中央極限定理是基於存在期望值和變異數的分配，趨近累積機率分配，此為分配趨近。
 - 弱大數法則來自機率趨近
@@ -46,7 +46,7 @@ $$
 
 ## 2.1. 你以為你知道軟體後面使用正確的理論?
 
-我們用簡單的例子來說明。網路上常用的區間估計計算器[^4]就是個錯誤例子。這是來自某書籍提供的線上計算區間估計程式。我設定的是偏態的母體比例，$p=0.9$，這時候肯定要用中央極限定理，並且樣本數要足夠大才可能讓偏態的母體比例抽樣分配變成常態分配。
+我們用簡單的例子來說明。網路上常用的區間估計計算器[^5]就是個錯誤例子。這是來自某書籍提供的線上計算區間估計程式。我設定的是偏態的母體比例，$p=0.9$，這時候肯定要用中央極限定理，並且樣本數要足夠大才可能讓偏態的母體比例抽樣分配變成常態分配。
 
 當我設定樣本數11筆，臨界值為Z分配的1.96。
 
@@ -58,7 +58,7 @@ $$
 
 ![樣本數=200](https://raw.githubusercontent.com/meiyulee/pic001/master/stat/CI_calcu_001.JPG)
 
-這三張截圖可以看出無論樣本數多少，臨界值都是使用Z分配的1.96，不符合樣本數超過30的條件，此外，樣本比例為0.9應為偏態，若要適用中央極限定理，所需樣本數也要非常多，至少超過1500個樣本[^5]。
+這三張截圖可以看出無論樣本數多少，臨界值都是使用Z分配的1.96，不符合樣本數超過30的條件，此外，樣本比例為0.9應為偏態，若要適用中央極限定理，所需樣本數也要非常多，至少超過1500個樣本[^6]。
 
 <img src="https://raw.githubusercontent.com/meiyulee/pic001/master/CLT_bernoulli/CLT_bernoulli_p09.PNG" alt="母體比例=0.9" width="60%">
 
@@ -100,7 +100,7 @@ $$
 
 ### 3.2.1. 舉例比對
 
-讓我使用來自雪梨大學的一個母體比例區間估計計算器[^6]和使用來自機率分配模擬器的一個母體比例估計得到臨界值後計算的區間估計。
+讓我使用來自雪梨大學的一個母體比例區間估計計算器[^7]和使用來自機率分配模擬器的一個母體比例估計得到臨界值後計算的區間估計。
 
 設定有100個隨機樣本且母體比例為0.9，此時的抽樣分配仍非常態分配。紫色背景圖是來自雪梨大學的一個母體比例區間估計，介於0.8256~0.9448。
 
@@ -149,18 +149,18 @@ $$
 
 1. **要考慮間斷轉連續問題**。統計學的一個母體比例區間估計和假設檢定出現了很多的公式。除了多少樣本才能趨近常態分配外，另一個問題就是間斷轉連續問題。
 2. **忽視估計和檢定的目的是找母體參數**。統計學只重視樣本平均和樣本變異數的區間估計和假設檢定。但未必能用於每個機率分配的參數的區間估計和假設檢定，例如，柯西分配的參數是中位數，做樣本平均的區間估計和假設檢定一點意義都沒有。
-4. **只重視樣本平均和樣本變異數**。統計學無法為其他樣本係數做區間估計和假設檢定。例如，樣本變異數其實也有抽樣分配，因為無法找到抽樣分配，就直接一階動差(期望值)用卡方檢定了。事實上，樣本變異數的變異數是四階動差[^7]。是的，只要樣本數夠大，中央極限定理又可以使用了，但問題回到難點2和3。至於其他敘述統計的係數之抽樣分配，幾乎無法想像怎麼求得。
+4. **只重視樣本平均和樣本變異數**。統計學無法為其他樣本係數做區間估計和假設檢定。例如，樣本變異數其實也有抽樣分配，因為無法找到抽樣分配，就直接一階動差(期望值)用卡方檢定了。事實上，樣本變異數的變異數是四階動差[^8]。是的，只要樣本數夠大，中央極限定理又可以使用了，但問題回到難點2和3。至於其他敘述統計的係數之抽樣分配，幾乎無法想像怎麼求得。
 5. **誰知$n\rightarrow \infty$是多少樣本**。實務上中央極限定理最少要多少樣本數眾說紛紜。最後都是自我認定或約定成俗。這種模糊化造成的誤差都被視而不見。
 
 有沒有解決方法呢？前面有提到一些，之後在開其他篇談談吧。
 
 # 參考資料
 
-[^1] [7.2.4 Convergence in Distribution](https://www.probabilitycourse.com/chapter7/7_2_4_convergence_in_distribution.php)
-[^2] [7.2.5 Convergence in Probability](https://www.probabilitycourse.com/chapter7/7_2_5_convergence_in_probability.php)
-[^3] [7.2.7 Almost Sure Convergence](https://www.probabilitycourse.com/chapter7/7_2_7_almost_sure_convergence.php)
-[^4] [區間估計計算器](https://pulipulichen.github.io/HTML5-Confidence-Intervals-Calculator/index.html), [區間估計不用再查表了！信賴區間計算器 / Confidence Intervals Calculator](https://blog.pulipuli.info/2017/04/confidence-intervals-calculator.html#postcataconfidence-intervals-calculator.html0_anchor4)
-[^5][YouTube, 5:54位置](https://youtu.be/g17LfD4ewFw?t=354)
-[^6] [來自雪梨大學區間估計計算器](https://pedro.org.au/traditional-chinese/resources/confidence-interval-calculator/)。一個母體比例區間估計的公式[參考論文第三頁](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.408.7107&rep=rep1&type=pdf)。
-
-[^7] [參考answered Oct 16, 2011 at 16:49 user940](https://math.stackexchange.com/questions/72975/variance-of-sample-variance)
+[^1] [參考文章, p10](https://www.stat.nuk.edu.tw/prost/article/article_m7.pdf)；[Wiki百科](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%BF%83%E6%9E%81%E9%99%90%E5%AE%9A%E7%90%86)
+[^2] [7.2.4 Convergence in Distribution](https://www.probabilitycourse.com/chapter7/7_2_4_convergence_in_distribution.php)
+[^3] [7.2.5 Convergence in Probability](https://www.probabilitycourse.com/chapter7/7_2_5_convergence_in_probability.php)
+[^4] [7.2.7 Almost Sure Convergence](https://www.probabilitycourse.com/chapter7/7_2_7_almost_sure_convergence.php)
+[^5] [區間估計計算器](https://pulipulichen.github.io/HTML5-Confidence-Intervals-Calculator/index.html), [區間估計不用再查表了！信賴區間計算器 / Confidence Intervals Calculator](https://blog.pulipuli.info/2017/04/confidence-intervals-calculator.html#postcataconfidence-intervals-calculator.html0_anchor4)
+[^6][YouTube, 5:54位置](https://youtu.be/g17LfD4ewFw?t=354)
+[^7] [來自雪梨大學區間估計計算器](https://pedro.org.au/traditional-chinese/resources/confidence-interval-calculator/)。一個母體比例區間估計的公式[參考論文第三頁](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.408.7107&rep=rep1&type=pdf)。
+[^8] [參考answered Oct 16, 2011 at 16:49 user940](https://math.stackexchange.com/questions/72975/variance-of-sample-variance)
