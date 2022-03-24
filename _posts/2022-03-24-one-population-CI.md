@@ -83,6 +83,7 @@ $$
 ## 3.1. $n$個隨機樣本服從常態分配
 
 平均數為$\mu$且標準差為$\sigma$的常態分配，$E(\overline{X})=\mu$ 且 $Var(\overline{X})=\sigma^{2} /n$。所以，「標準化的統計量($Z$)」為
+
 $$
 Z=\frac{\overline{X}-E(\overline{X})}{\sigma(\overline{X})}=\frac{\overline{X}-\mu}{\sigma/\sqrt{n}}。
 $$
@@ -95,7 +96,8 @@ $$
 
 $$
 E(\overline{X}) = p 
-//
+$$
+$$
 Var(\overline{X}) = p(1-p) / n
 $$
 
