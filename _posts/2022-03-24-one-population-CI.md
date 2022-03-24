@@ -62,7 +62,7 @@ $$
 
 <img src="https://raw.githubusercontent.com/meiyulee/pic001/master/CLT_bernoulli/CLT_bernoulli_p09.PNG" alt="母體比例=0.9" width="60%">
 
-> **沒有使用極限理論驗證過統計量的抽樣分配何時趨近常態分配，那就不適用中央極限定理。**
+> **沒有使用極限理論驗證過統計量的抽樣分配何時趨近常態分配，那就只是理論的中央極限定理。**
 
 # 3. 統計學的區間估計或假設檢定公式沒有混亂之說
 
