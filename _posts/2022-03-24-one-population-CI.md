@@ -94,11 +94,10 @@ $$
 
 因為伯努利相加為二項式分配，所以$n$個隨機樣本相加服從二項式分配，$B(n,p)$。透過期望值特性和變異數特性，可以計算得到
 
-$$
-E(\overline{X}) = p 
-$$
-$$
-Var(\overline{X}) = p(1-p) / n
+$$ \begin{split}
+E(\overline{X}) &= p \\
+Var(\overline{X}) &= p(1-p) / n
+\end{split}
 $$
 
 ### 3.2.1. 舉例比對
