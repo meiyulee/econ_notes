@@ -169,10 +169,17 @@ $$
 # 參考資料
 
 [^1]: [參考文章, p10](https://www.stat.nuk.edu.tw/prost/article/article_m7.pdf)；[Wiki百科](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%BF%83%E6%9E%81%E9%99%90%E5%AE%9A%E7%90%86)
+
 [^2]: [7.2.4 Convergence in Distribution](https://www.probabilitycourse.com/chapter7/7_2_4_convergence_in_distribution.php)
+
 [^3]: [7.2.5 Convergence in Probability](https://www.probabilitycourse.com/chapter7/7_2_5_convergence_in_probability.php)
+
 [^4]: [7.2.7 Almost Sure Convergence](https://www.probabilitycourse.com/chapter7/7_2_7_almost_sure_convergence.php)
+
 [^5]: [區間估計計算器](https://pulipulichen.github.io/HTML5-Confidence-Intervals-Calculator/index.html), [區間估計不用再查表了！信賴區間計算器 / Confidence Intervals Calculator](https://blog.pulipuli.info/2017/04/confidence-intervals-calculator.html#postcataconfidence-intervals-calculator.html0_anchor4)
+
 [^6]: [YouTube, 5:54位置](https://youtu.be/g17LfD4ewFw?t=354)
+
 [^7]: [來自雪梨大學區間估計計算器](https://pedro.org.au/traditional-chinese/resources/confidence-interval-calculator/)。一個母體比例區間估計的公式[參考論文第三頁](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.408.7107&rep=rep1&type=pdf)。
+
 [^8]: [參考answered Oct 16, 2011 at 16:49 user940](https://math.stackexchange.com/questions/72975/variance-of-sample-variance)
