@@ -54,7 +54,7 @@ layout: post
 
 機率分配模擬器是找出Durbin-Watson檢定統計量抽樣分配的重要工具。機率分配模擬器可以模擬出自變數和一階自我相關誤差模型的誤差分配，然後設定好自我相關係數值、落後期數值、一次的樣本數、截距、斜率、變異數後，根據Durbin-Watson檢定統計量公式，生成出一個各地Durbin-Watson值。那要生成多少Durbin-Watson值才能代表抽樣分配？答案是1億筆！(詳情參考註腳9內容)
 
-<img src="https://raw.githubusercontent.com/meiyulee/pic001/master/DWtest/DW_X_2D_compare.gif" width="400">
+<img src="https://raw.githubusercontent.com/meiyulee/pic001/master/DWtest/DW_X_2D_compare_mark.gif" width="400">
 
 ## 3.2. Durbin-Watson檢定擁有正確臨界值表的優勢
 
