@@ -20,7 +20,7 @@ layout: post
 # 2. 錯誤：大樣本下的Durbin-Watson test臨界值仍有灰色地帶
 有意思的是即使到很大的樣本個數依舊存在上下界(參考下圖 [^4], [^5] )。
 
-<img src="https://www.real-statistics.com/wp-content/uploads/2019/11/dw-table-.01-part6.png" width="300">
+<img src="https://www.real-statistics.com/wp-content/uploads/2019/11/dw-table-.01-part6.png" width="400">
 
 如果真的知道多少樣本可以讓Durbin-Watson檢定統計量之抽樣分配趨近常態分配，那麼又怎麼會有如上圖或Turner(2019)的大樣本的Durbiin-Watson檢定之臨界值一文呢！
 
@@ -54,13 +54,15 @@ layout: post
 
 機率分配模擬器是找出Durbin-Watson檢定統計量抽樣分配的重要工具。機率分配模擬器可以模擬出自變數和一階自我相關誤差模型的誤差分配，然後設定好自我相關係數值、落後期數值、一次的樣本數、截距、斜率、變異數後，根據Durbin-Watson檢定統計量公式，生成出一個各地Durbin-Watson值。那要生成多少Durbin-Watson值才能代表抽樣分配？答案是1億筆！(詳情參考註腳9內容)
 
+<img src="https://raw.githubusercontent.com/meiyulee/pic001/master/DWtest/DW_X_2D_compare.gif" width="400">
+
 ## 3.2. Durbin-Watson檢定擁有正確臨界值表的優勢
 
-- <font color="yellow">檢定公式完全符合一般的點估計量特性</font>：由機率分配模擬器得到的Durbin-Watson檢定統計量臨界值不再有灰色地帶。
+- <font color="blue">檢定公式完全符合一般的點估計量特性</font>：由機率分配模擬器得到的Durbin-Watson檢定統計量臨界值不再有灰色地帶。
 
-- <font color="yellow">自我相關係數可以檢定任何介於-1到1的數值</font>：現階段的Durbin-Watson檢定只能檢定有無自我相關係數，不管自我相關係數會是其他值。但正常的檢定是可以檢定任何值的。由機率分配模擬器得到不同自我相關係數下的Durbin-Watson臨界值就能夠檢定介於-1和1之間的任何值。
+- <font color="blue">自我相關係數可以檢定任何介於-1到1的數值</font>：現階段的Durbin-Watson檢定只能檢定有無自我相關係數，不管自我相關係數會是其他值。但正常的檢定是可以檢定任何值的。由機率分配模擬器得到不同自我相關係數下的Durbin-Watson臨界值就能夠檢定介於-1和1之間的任何值。
 
-- <font color="yellow">可檢定不同落後期下的自我相關</font>：原本的Durbin-Watson檢定受限臨界值表，只能在落後1期的設定下做自我相關檢定。當機率分配模擬器驗證過可找出不同落後期的Durbin-Watson檢定統計量之抽樣分配後，自然可用於不同的落後期數下的自我相關檢定。
+- <font color="blue">可檢定不同落後期下的自我相關</font>：原本的Durbin-Watson檢定受限臨界值表，只能在落後1期的設定下做自我相關檢定。當機率分配模擬器驗證過可找出不同落後期的Durbin-Watson檢定統計量之抽樣分配後，自然可用於不同的落後期數下的自我相關檢定。
 
 # 小結
 
