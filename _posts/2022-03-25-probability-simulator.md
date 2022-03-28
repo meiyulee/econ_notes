@@ -89,9 +89,7 @@ Excel學人工智慧的基礎模板優勢在於
 
 然而機率分配模擬屬於高端技術，通常你得學很多專業且跨領域的理論課程後，才能慢慢整合起來，用亂數為基礎的模擬器，模擬出機率分配。不過也就這樣了。再進一步，微積分無法解決的變數變換或極大極小，甚至是數學組合後的函數可否找出對應之機率分配都是無法用理論、數學、數值分析找出來的。機率分配模擬器能夠成為人工智慧的基礎模板就是能解決數學、統計理論無法解出，或數值分析無法解出的問題。而人工智慧就是一個如此複雜的數據規律系統，需要機率分配模擬器建構最龐大且完整的機率分配模板，方便人工智慧判斷使用。
 
-想學機率分配模擬器也不難，只要你會Excel就可以。想了解更多可以看書籍的樣書內容或是下方的影片介紹。
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lpR0rN3GKcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+想學機率分配模擬器也不難，只要你會Excel就可以。想了解更多可以看書籍的樣書內容或是[影片介紹](https://www.youtube.com/embed/lpR0rN3GKcg)。
 
 
 # 參考資料
