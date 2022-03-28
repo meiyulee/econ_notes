@@ -97,3 +97,5 @@ Excel學人工智慧的基礎模板優勢在於
 [^1]: Wiki百科：[Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 
 [^2]: IBM介紹 [蒙地卡羅模擬法](https://www.ibm.com/tw-zh/cloud/learn/monte-carlo-simulation)
+
+[^3]: 期刊論文：[Chih-Wen Hsiao, Ya-Chuan Chan, Mei-Yu Lee, Hsi-Peng Lu, 2021, Heteroscedasticity and Precise Estimation Model Approach for Complex Financial Time-Series Data: An Example of Taiwan Stock Index Futures before and during COVID-19, <i>Mathematics</i>, 9(21), 2719.](https://doi.org/10.3390/math9212719)
