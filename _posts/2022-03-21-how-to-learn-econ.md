@@ -4,7 +4,7 @@ description: 很多人學習經濟學走馬看花，學了好像沒有什麼用�
 author: 李玫郁
 date: 2022-03-21
 categories:
- - 經濟學習
+ - 經濟觀念
 tags: [經濟循環圖, 市場]
 image: https://www.google.com/url?sa=i&url=http%3A%2F%2Feconcloud.blogspot.com%2F2015%2F11%2Fblog-post_26.html&psig=AOvVaw048REOjC3TCegtjAtK4rV1&ust=1648129505049000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCMiZ9_-u3PYCFQAAAAAdAAAAABAD
 layout: post
