@@ -2,7 +2,7 @@
 layout: post
 title: 完全競爭市場假設
 date: 2022-03-09 13:25
-tags: [完全競爭市場, 廠商訂價]
+tags: [廠商訂價]
 thumbnail: 
 published: true
 description: 
