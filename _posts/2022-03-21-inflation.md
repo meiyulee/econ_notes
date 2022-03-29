@@ -5,7 +5,7 @@ author: 李玫郁
 date: 2022-03-21
 categories:
  - 經濟觀點
-tags: [新冠病毒事件, 經濟評析, 通貨膨脹]
+tags: [新冠病毒事件, 通貨膨脹]
 image: https://raw.githubusercontent.com/meiyulee/pic001/master/Slide3.GIF
 layout: post
 ---
@@ -78,3 +78,5 @@ layout: post
 ## 參考資料
 
 [^1] 數據來源: https://www.statista.com/statistics/188141/annual-real-gdp-of-the-united-states-since-1990-in-chained-us-dollars/
+
+
