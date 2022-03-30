@@ -96,15 +96,7 @@ $$
 
 第二種解釋方法是將2 × 2 表轉換為下方的樹狀圖。你會發現我們從【start】移到【A】點位置(已實現)，條件機率指的就是A事件已經發生後，你已將站在【A】點，移動到【B】點的可能性。
 
-```mermaid
-graph LR
-A[Start] -- 1--> B((A))
-A --2--> C((非A))
-B --> D((B))
-B --> E((非B))
-C --> F((B))
-C --> G((非B))
-```
+[![](https://mermaid.ink/img/pako:eNpFjr0OwiAYRV-FfBNNyqAjg0n_dHGyoziQQm2TAgYhxjR9FH0_30KKbdzuPecOd4TGCAkU2sE8mo5bh44nprNz7UK-IELQhpAdyjHOkiSIQLYzKDD-vN6R5WgGJcb5v1VRR1BEsF_0rx1WDSkoaRXvRfgwMo0QA9dJJRnQEIVsuR8cA6anMPU3wZ2sRO-MBdry4S5T4N6Z-qkboM56uY7Knl8tV8tq-gL7ike_)](https://mermaid.live/edit#pako:eNpFjr0OwiAYRV-FfBNNyqAjg0n_dHGyoziQQm2TAgYhxjR9FH0_30KKbdzuPecOd4TGCAkU2sE8mo5bh44nprNz7UK-IELQhpAdyjHOkiSIQLYzKDD-vN6R5WgGJcb5v1VRR1BEsF_0rx1WDSkoaRXvRfgwMo0QA9dJJRnQEIVsuR8cA6anMPU3wZ2sRO-MBdry4S5T4N6Z-qkboM56uY7Knl8tV8tq-gL7ike_)
 
 上式還可以上下同除全部的個數，得到
 
@@ -138,7 +130,7 @@ $$
 
 有人可能認為我可以測從A到B，再測從B到A，然後選最可能發生的結果。這合理嗎？當然不合理！
 
-從條件機率可了解到條件機率的「條件」代表我們衡量的基準已經改變了。例如從【start】點已經移動到【A】點。你又如何去比較$P(B|A)$和$P(A|B)$，誰的機率值高就從哪點移動到另一點呢？當我們使用基於貝氏定理的貝氏分類器時，數據欄位的前後關係已將被我們主觀認定了。
+從條件機率可了解到條件機率的「條件」代表我們衡量的基準已經改變了。例如從【start】點已經移動到【A】點。你又如何去比較 $P(B|A)$ 和 $P(A|B)$ ，誰的機率值高就從哪點移動到另一點呢？當我們使用基於貝氏定理的貝氏分類器時，數據欄位的前後關係已將被我們主觀認定了。
 
 最後，機器學習的事前機率，也就是數據的邊際機率，是否來自數據正確的機率分配也是值得被懷疑的。這點可參考我其他的文章。如果沒有找出一組數據的機率分配，你又如何定出事前機率呢！
 
@@ -146,5 +138,7 @@ $$
 # 參考資料
 
 [高中數學與程式](https://www.facebook.com/mathprogramming2020)
+
 [[機器學習首部曲] 貝氏分類器 Bayesian Classifier](https://pyecontech.com/2020/02/27/bayesian_classifier/)
+
 [機器學習中的貝氏定理：生成模型 (Generative Model) 與判別模型 (Discriminative Model)](https://taweihuang.hpd.io/2017/03/21/mlbayes/)
