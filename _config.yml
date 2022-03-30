@@ -6,17 +6,18 @@
 # Site
 title: E課李語
 subtitle:
-description: 閒聊經濟
+description: 閒聊大數據、統計、經濟
 author: 李玫郁
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-tw
 date_format: '%Y-%m-%d'
+timezone: 'Asia/Taipei'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
 url: https://meiyulee.github.io
 baseurl: /leetalk
-permalink: pretty
+permalink: /:year/:month/:day/:title
 
 # Pagination
 paginate: 10
@@ -79,7 +80,7 @@ plugins:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: "blog, NexT, economics, big data, big data analysis"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
