@@ -1,6 +1,6 @@
 ---
 title: Excel圖解個人需求和市場需求
-description: 
+description: 讓我用Excel幫助你了解經濟學的基本觀念。本文是使用Excel說明個人需求和市場需求如何獲得，以及個人需求如何執行「水平加總」得到市場需求。
 author: 李玫郁
 date: 2022-03-28
 categories:
