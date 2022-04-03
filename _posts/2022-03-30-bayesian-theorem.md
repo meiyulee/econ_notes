@@ -4,8 +4,8 @@ description: 機器學習的貝氏分類器觀念非常簡單，用2 × 2 表就
 author: 李玫郁
 date: 2022-03-30 20:30
 categories:
- - 圖解觀念
-tags: [統計, 機器學習]
+ - 統計觀念
+tags: [圖解觀念, 機器學習]
 image: 
 layout: post
 ---

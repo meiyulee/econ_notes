@@ -4,8 +4,8 @@ description: 直接比對模型不香嗎？可惜不是機率分配缺參數，�
 author: 李玫郁
 date: 2022-03-27
 categories:
- - 圖解觀念
-tags: [統計, 機率分配, 機率分配模擬器, 強大數法則]
+ - 大數據分析
+tags: [圖解觀念, 機率分配, 機率分配模擬器, 強大數法則]
 image: https://raw.githubusercontent.com/meiyulee/pic001/master/slog/cannot_compare_model_reason.jpeg
 layout: post
 ---

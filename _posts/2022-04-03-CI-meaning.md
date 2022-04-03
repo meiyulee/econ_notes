@@ -4,8 +4,8 @@ description: 區間估計有哪些是你需要了解的？這是民意調查或�
 author: 李玫郁
 date: 2022-04-03
 categories:
- - 圖解觀念
-tags: [統計]
+ - 統計觀念
+tags: [圖解觀念]
 image: https://raw.githubusercontent.com/meiyulee/pic001/master/stat/CI_001.jpg
 layout: post
 ---

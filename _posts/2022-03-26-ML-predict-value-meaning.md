@@ -4,8 +4,8 @@ description: 告訴你為什麼現在都把統計的估計值叫做預測值
 author: 李玫郁
 date: 2022-03-26
 categories:
- - 圖解觀念
-tags: [統計, 機器學習]
+ - 大數據分析
+tags: [圖解觀念, 機器學習]
 image: 
 layout: post
 ---
