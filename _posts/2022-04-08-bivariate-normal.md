@@ -36,7 +36,7 @@ $$
   其中，$Q$為
 
 $$
-Q=Z_{X_{1}}^{2}-2\rho \, Z_{X_{1}} \, Z_{X_{2}}+Z_{X_{2}}^{2}
+Q = Z_{X_{1}}^{2} - 2 \rho \, Z_{X_{1}} \, Z_{X_{2}} + Z_{X_{2}}^{2}
 $$
 
   其中，$\rho$ 為相關係數，$Z_{X_{1}}$ 為隨機變數$X_{1}$標準化，$Z_{X_{2}}$ 為隨機變數 $X_{2}$ 標準化。
@@ -48,8 +48,8 @@ $$
   - $E(X_{1})=\overline{X}_{1}$
   - $E(X_{2})=\overline{X}_{2}$
 - 變異數
-  - $Var(X_{1})=S_{X_{1}}^{2}=\frac{{\sum^{n}_{i=1}} \left(X_{1,i}-\overline{X}_{1} \right)^{2}}{n-1}$
-  - $Var(X_{2})=S_{X_{2}}^{2}=\frac{{\sum^{n}_{i=1}} \left(X_{2,i}-\overline{X}_{2} \right)^{2}}{n-1}$
+  - $Var(X_{1})=S_{X_{1}}^{2}=\frac{{\sum_{i=1}^{n}} \left(X_{1,i}-\overline{X}_{1} \right)^{2}}{n-1}$
+  - $Var(X_{2})=S_{X_{2}}^{2}=\frac{{\sum_{i=1}^{n}} \left(X_{2,i}-\overline{X}_{2} \right)^{2}}{n-1}$
 - 相關係數
   - $r=\frac{\sum_{i=1}^{n} \varepsilon_{X_{1}} \, \varepsilon_{X_{2}}}{\sqrt{\sum_{i=1}^{n} \varepsilon_{X_{1}}^{2} \, \sqrt{\sum_{i=1}^{n} \varepsilon_{X_{2}}^{2}}}}$
 
@@ -115,6 +115,10 @@ $\alpha_{1}$ 為斜率，代表$X_{2}$ 對 $E(X_{1} \vert X_{2})$ 的邊際影�
 
 ![](https://raw.githubusercontent.com/meiyulee/pic001/master/stat/Bivariate_Normal.png)
 
+- prob140.org [^4]
+<img src="http://prob140.org/sp18/textbook/notebooks-images/24_01_Bivariate_Normal_Distribution_7_0.png" width="400">
+
+
 ## 3.1. 如何使用Excel繪製
 
 對辦公室行政人員最常接觸的軟體就是 MicroSoft Office。他們想學數據分析的最低入手成本即使用Excel。
@@ -143,3 +147,4 @@ $\alpha_{1}$ 為斜率，代表$X_{2}$ 對 $E(X_{1} \vert X_{2})$ 的邊際影�
 
 [^3]: ScienceDirect：[Bivarate Normal distribution](https://www.sciencedirect.com/topics/mathematics/bivariate-normal-distribution)，內容的圖4-7。
 
+[^4]: hprob140.org 的 [Bivariate Normal Distribution](http://prob140.org/sp18/textbook/notebooks-md/24_01_Bivariate_Normal_Distribution.html)
