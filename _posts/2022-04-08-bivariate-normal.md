@@ -48,8 +48,8 @@ $$
   - $E(X_{1})=\overline{X}_{1}$
   - $E(X_{2})=\overline{X}_{2}$
 - 變異數
-  - $Var(X_{1})=S_{X_{1}}^{2}=\frac{{\sum_{i=1}^{n}} \left(X_{1,i}-\overline{X}_{1} \right)^{2}}{n-1}$
-  - $Var(X_{2})=S_{X_{2}}^{2}=\frac{{\sum_{i=1}^{n}} \left(X_{2,i}-\overline{X}_{2} \right)^{2}}{n-1}$
+  - $Var(X_{1})=S_{X_{1}}^{2}=\frac{\sum_{i=1}^{n} \left(X_{1,i}-\overline{X}_{1} \right)^{2}}{n-1}$
+  - $Var(X_{2})=S_{X_{2}}^{2}=\frac{\sum_{i=1}^{n} \left(X_{2,i}-\overline{X}_{2} \right)^{2}}{n-1}$
 - 相關係數
   - $r=\frac{\sum_{i=1}^{n} \varepsilon_{X_{1}} \, \varepsilon_{X_{2}}}{\sqrt{\sum_{i=1}^{n} \varepsilon_{X_{1}}^{2} \, \sqrt{\sum_{i=1}^{n} \varepsilon_{X_{2}}^{2}}}}$
 
