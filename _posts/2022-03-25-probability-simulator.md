@@ -4,8 +4,8 @@ description: 基於數據的大數據和人工智慧，想要分析和建模不�
 author: 李玫郁
 date: 2022-03-28
 categories:
- - 人工智慧觀念
-tags: [統計, 機率分配, 機率分配模擬器]
+ - 機率分配模擬器
+tags: [統計, 機率分配, 人工智慧]
 image: https://raw.githubusercontent.com/meiyulee/pic001/master/slog/IMG_8051.PNG
 layout: post
 ---
