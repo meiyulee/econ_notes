@@ -303,8 +303,8 @@ $$
 令$X$服從指數分配，參數為$\lambda$。
 
 $$
-Y=X^{2} \sim Rayleigh(\lambda) \\
-f_{Y}(y)=2 \,\lambda \, y \, e^{-\lambda \, y^{2}}
+Y=\sqrt{X} \sim Rayleigh(\frac{1}{\sqrt{2\,\lambda}}) \\
+f_{Y}(y)= \frac{2 \,y}{\sqrt{2\,\lambda}} \, e^{\frac{-y^{2}}{\sqrt{2\,\lambda}}}
 $$
 
 ## 5.7. 取極小值還是指數
@@ -313,4 +313,4 @@ $$
 
 $W=min \big(X_{1}, X_{2}, \cdots, X_{n} \big) \sim \varepsilon(\lambda_{1} + \lambda_{2} + \cdots + \lambda_{n})$
 
-## 5.8. 
+## 5.8. 與
