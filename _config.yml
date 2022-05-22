@@ -49,6 +49,7 @@ highlight:
 markdown: kramdown
 kramdown:
     input: GFM
+    math_engine: katex
 
 # Default Attributes
 ## Docs: https://jekyllrb.com/docs/configuration/#front-matter-defaults
@@ -364,7 +365,7 @@ highlight_theme: normal
 # MathJax Support
 mathjax:
   enable: true
-  per_page: false
+  per_page: true
   cdn: //cdn.bootcss.com/mathjax/2.7.4/latest.js?config=TeX-AMS-MML_HTMLorMML
 
 # Han Support docs: https://hanzi.pro/
