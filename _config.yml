@@ -16,7 +16,7 @@ timezone: 'Asia/Taipei'
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
 url: https://meiyulee.github.io
-baseurl: /leetalk
+baseurl: /leetalk2
 permalink: /:year/:month/:day/:title
 
 # Pagination
