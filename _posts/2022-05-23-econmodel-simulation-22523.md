@@ -4,8 +4,9 @@ description:
 author: 李玫郁
 date: 2022-05-23 16:23
 categories:
- - [應用經濟,機率分配模擬器]
-tags: 
+ - 應用經濟
+ - 機率分配模擬器
+tags: 供需模型
 image: https://raw.githubusercontent.com/meiyulee/pic001/master/stat/exponential_dist_0001.jpg
 layout: post
 ---
