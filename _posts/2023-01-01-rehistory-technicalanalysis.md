@@ -63,9 +63,12 @@ layout: post
 讓我使用趨勢動態模式和「趨勢+自相關」動態模式說明歷史股價/股價指數是否重演或相似。
 
 29秒快速看完👉台股指數👈和👉台積電👈股價的趨勢動態情況📣只是相似趨勢💰直線多線段 + RNN核心的自相關技術
+
 https://youtube.com/shorts/6dqbbBlaH40
 30秒快速看完👉台股指數👈和👉台積電👈股價的趨勢動態情況📣只是相似趨勢💰非直線多線段 + RNN核心的自相關技術
+
 https://youtube.com/shorts/TBLwfnOgNic
+
 31秒快速看完👉台股指數👈和👉台積電👈股價的趨勢動態情況📣只是相似趨勢💰Curvilinear多線段 + RNN核心的自相關技術
 https://youtube.com/shorts/lOL-43Gnhq4
 
