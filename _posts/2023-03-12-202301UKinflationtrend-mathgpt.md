@@ -58,4 +58,4 @@ MathGPT for numerical modelling軟體非常方便且實用地幫助想知道數�
 
 # 附註
 
-想得到這篇部落格文的文件檔，請下載：[點這]()
+想得到這篇部落格文的文件檔，請下載：[點這](https://github.com/meiyulee/leetalk/blob/master/_files/UKinflation_best_Line_model_0312.zip)
