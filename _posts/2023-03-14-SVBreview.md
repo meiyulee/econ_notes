@@ -1,9 +1,9 @@
 ---
-title: MathGPT應用於英國通貨膨脹率趨勢
-description: 
+title: SVB倒閉的金融問題
+description: 一場新冠疫情引發的金融體系缺陷。SVB的資產配置、資金來源、和加密貨幣、新創行業的關聯，在在顯現市場承受經濟衝擊的能力並未因為經歷過過去的經濟衝擊而有更好的體質。
 categories:
  - 應用經濟
-date: 2023-03-12 14:10
+date: 2023-03-14 14:10
 tags: [金融危機]
 thumbnail: https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2023/03/14/20615343.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=800&exp=3600&w=930&nt=1
 
