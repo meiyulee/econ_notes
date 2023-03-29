@@ -1,11 +1,11 @@
 ---
 title: 趨勢圖解美國勞動市場指標
-description: 
+description: 美國勞動指標的關係和各自的時間趨勢互相告知我們美國勞動市場的情況
 categories:
  - 經濟觀點
 date: 2023-03-29 10:29
 tags: [圖解觀念]
-thumbnail: 
+thumbnail: https://raw.githubusercontent.com/meiyulee/pic001/master/econ/laborecon_1.png
 
 ---
 
