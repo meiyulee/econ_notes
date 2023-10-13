@@ -46,7 +46,7 @@ thumbnail:
 
 美國核心通貨膨脹同樣更新到2023年8月的數據，可以看[圖三](https://scontent.ftpe4-1.fna.fbcdn.net/v/t39.30808-6/381163877_749421343864561_7813267914805118956_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=49d041&_nc_ohc=qRdFatfVHvcAX-iB6TS&_nc_ht=scontent.ftpe4-1.fna&oh=00_AfBzfPSURya3wPmCtaNqAp04ynaKzdKjZR9377ESI-01rw&oe=651816B9)的結果。我們可以發現美國核心通貨膨脹率下降的位置並沒有通貨膨脹率那麼低，並且在下降過程中出現三個下降階段。
 
-![圖三](https://scontent.ftpe4-1.fna.fbcdn.net/v/t39.30808-6/381163877_749421343864561_7813267914805118956_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=49d041&_nc_ohc=qRdFatfVHvcAX-iB6TS&_nc_ht=scontent.ftpe4-1.fna&oh=00_AfBzfPSURya3wPmCtaNqAp04ynaKzdKjZR9377ESI-01rw&oe=651816B9)
+![圖三](https://raw.githubusercontent.com/meiyulee/pic001/master/AIecon/uninflationcore202308.png)
 
 ## 從2022年3月到2022年7月的趨勢期間
 
