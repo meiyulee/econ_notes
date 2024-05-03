@@ -2,7 +2,7 @@
 title: 趨勢圖解美國和英國菲利普曲線
 description: 以1960年到2022年的失業率和通貨膨脹率(年資料)進行多線段法的直線模式，AI自主決定最佳的每線段最少數據量，得到美國和英國的菲利普曲線差異甚大。
 categories:
- - 經濟觀點
+ - 經濟趨勢
 date: 2023-03-19 12:23
 tags: [圖解觀念]
 thumbnail: https://raw.githubusercontent.com/meiyulee/pic001/master/econ/phillipscurve_US_UK_2022_year.png
