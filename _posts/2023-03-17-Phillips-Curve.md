@@ -2,7 +2,7 @@
 title: 趨勢圖解美國菲利浦曲線
 description: 
 categories:
- - 經濟觀點
+ - 經濟趨勢
 date: 2023-03-17 15:23
 tags: [圖解觀念]
 thumbnail: 
