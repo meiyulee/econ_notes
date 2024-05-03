@@ -4,8 +4,8 @@ description: 想繪製趨近連續的分布直方圖，分類組數和樣本數�
 author: 李玫郁
 date: 2022-04-16
 categories:
- - 大數據分析
-tags: [直方圖]
+ - 機率分配模擬器
+tags: [直方圖,大數據分析,Excel]
 image: https://raw.githubusercontent.com/meiyulee/pic001/master/histogram/histogram_041.JPG
 layout: post
 ---
