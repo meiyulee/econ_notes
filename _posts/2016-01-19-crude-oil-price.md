@@ -7,6 +7,7 @@ title: 台灣95汽油大數據分析
 published: true
 categories:
  - 大數據分析
+ - 應用經濟
 ---
 
 <font color=grey>已發表在臺灣銀行季刊</font>
