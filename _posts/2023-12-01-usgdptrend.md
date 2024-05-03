@@ -1,8 +1,8 @@
 ---
-title: 美國GDP的短期趨勢圖
+title: 趨勢解讀美國GDP
 description: 美國GDP短期趨勢分析
 categories:
- - 應用經濟
+ - 經濟趨勢
 date: 2023-12-01 11:43
 tags: [GDP]
 thumbnail: 
