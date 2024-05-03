@@ -2,9 +2,9 @@
 title: 趨勢圖解美國勞動的小非農數據
 description: 如何做到圖解趨勢？趨勢建立需要精準的數字建模，所以使用MathGPT for numerical modelling (lines combined method)軟體幫助使用者的數字能夠建立精準的數學模式。方法優勢來自多線段法的使用。多線段法源於傳統迴歸分析，但不同之處在於多線段法將迴歸線的樣本數內化決定，自然能為數字配適出最優解。圖解趨勢美國就業市場的小非農就業數據有何意義呢？我們能夠為小非農數據找到最佳趨勢，並藉由顯示的時間訊號，了解美國經濟學家們和策略分析師們為何會提出一些經濟觀點，並給予最需要的趨勢起迄時間點。這些資訊有助於他們了解經濟情狀和評估。
 categories:
- - 經濟觀點
+ - 經濟趨勢
 date: 2023-04-06 14:25
-tags: [圖解觀念]
+tags: [圖解觀念,勞動市場]
 thumbnail: https://raw.githubusercontent.com/meiyulee/pic001/master/econ/ADPnonfarm_001.png
 ---
 
