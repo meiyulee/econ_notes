@@ -1,10 +1,10 @@
 ---
-title: 矽谷銀行倒閉真沒有徵兆？
+title: 趨勢解讀矽谷銀行倒閉真沒有徵兆？
 description: AI財經新知力，用數據趨勢分享隱藏在數據下的真相。美國3月10日矽谷銀行倒閉真該歸因於銀行購入滿手債券導致流動性不足嗎？這數據趨勢的訊號或許可以告訴你真相恐怕不是這樣。
 categories:
- - AI財經新知力
+ - 經濟觀點
 date: 2023-04-24 14:25
-tags: [數據分析]
+tags: [數據分析,金融市場]
 thumbnail: https://raw.githubusercontent.com/meiyulee/pic001/master/AIecon/free14letecture_40.JPG
 ---
 
