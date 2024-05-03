@@ -4,8 +4,8 @@ description: 樞紐分析是非常好用的工具，可以協助數據做分類�
 author: 李玫郁
 date: 2022-04-11
 categories:
- - 大數據分析
-tags: [直方圖]
+ - 機率分配模擬器
+tags: [直方圖,大數據分析,Excel]
 image: https://raw.githubusercontent.com/meiyulee/pic001/master/histogram/histogram_032.JPG
 layout: post
 ---
