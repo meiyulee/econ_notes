@@ -1,10 +1,10 @@
 ---
-title: AI財經新知力 - 美國新職位公告指數趨勢解讀
+title: 趨勢解讀美國新職位公告指數
 description: 用AI抓出數字趨勢訊號，帶你用數字趨勢發現不知道的趨勢訊號。美國就業市場從新職位公告指數來看就業需求面未必理想。
 categories:
- - AI財經新知力
+ - 經濟趨勢
 date: 2023-04-23 19:25
-tags: [數據分析]
+tags: [AI財經新知力,數據分析]
 thumbnail: https://raw.githubusercontent.com/meiyulee/pic001/master/AIecon/free14letecture_05.JPG
 ---
 
