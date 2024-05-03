@@ -2,9 +2,9 @@
 title: 趨勢圖解美國勞動市場指標
 description: 如何做到圖解趨勢？趨勢建立需要精準的數字建模，所以使用MathGPT for numerical modelling (lines combined method)軟體幫助使用者的數字能夠建立精準的數學模式。方法優勢來自多線段法的使用。多線段法源於傳統迴歸分析，但不同之處在於多線段法將迴歸線的樣本數內化決定，自然能為數字配適出最優解。為美國勞動市場指標建立趨勢有什麼意義呢？原先美國的時薪和勞動產出率數據被經濟專家以時間序列方式做比對和解說，但作者認為兩數據皆為美國勞動指標，應該直接分析兩者的關係，至於各自的時間趨勢，則可互相告知我們美國勞動市場的情況。
 categories:
- - 經濟觀點
+ - 經濟趨勢
 date: 2023-03-29 10:29
-tags: [圖解觀念]
+tags: [圖解觀念,勞動市場]
 thumbnail: https://raw.githubusercontent.com/meiyulee/pic001/master/econ/laborecon_1.png
 
 ---
