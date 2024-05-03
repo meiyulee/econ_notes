@@ -4,8 +4,8 @@ description: 直方圖是我們資料分析流程第一步驟對數據粗略觀�
 author: 李玫郁
 date: 2022-04-11
 categories:
- - 大數據分析
-tags: [直方圖]
+ - 機率分配模擬器
+tags: [直方圖,大數據分析,Excel]
 image: https://raw.githubusercontent.com/meiyulee/pic001/master/histogram/histogram_041.JPG
 layout: post
 ---
