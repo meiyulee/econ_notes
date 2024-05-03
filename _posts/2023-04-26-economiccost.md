@@ -2,9 +2,9 @@
 title: 接受自身經濟現況惡化的現實吧來自英國經濟學家的實言實語
 description: 分享從英國經濟學家讓英國民眾接受自身經濟現況惡化的現實一文，比對英美對通膨的做法和看法差異，並使用美國M2貨幣供給量肺炎前和其間的趨勢比對，說明貨幣虛假膨脹的經濟終將回歸實體。
 categories:
- - AI財經新知力
+ - 經濟觀點
 date: 2023-04-26 15:25
-tags: [數據分析]
+tags: [數據分析,AI財經新知力]
 thumbnail: https://raw.githubusercontent.com/meiyulee/pic001/master/AIecon/M2%E5%A4%A7%E5%95%8F%E9%A1%8C.jpg
 ---
 
