@@ -2,9 +2,9 @@
 title: 認識台灣經濟情況 - 消費者物價指數告訴你什麼事情呢？
 description: A很多人看到消費者物價指數感覺沒用處，讓我開找趨勢，從線性到非線性趨勢的觀察過程中，帶你發現台灣消費者物價給你什麼驚人訊息。
 categories:
- - AI財經新知力
+ - 經濟趨勢
 date: 2023-05-10 14:25
-tags: [消費者物價指數]
+tags: [消費者物價指數,圖解觀念]
 thumbnail: https://raw.githubusercontent.com/meiyulee/pic001/master/AIecon/aistatistc018.JPG
 ---
 
